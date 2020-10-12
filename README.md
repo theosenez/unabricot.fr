@@ -1,3 +1,3 @@
 # unabricot.fr
 Helping other people having a good day during the Coronavirus pandemic.
-Messages in messages.txt are subject to copyright, they belong to their respectful owners. You can add a message by adding a line in messages.txt
+You can add a message by adding a line in messages.txt, It will be displayed randomly on the /app/index.php page.
